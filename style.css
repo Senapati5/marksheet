@@ -1,0 +1,139 @@
+body {
+    	font-family: Arial, sans-serif;
+    	margin: 2px;
+    	padding: 0;
+    	border: 3px solid #000; 
+	}
+.sl{
+	text-align:left;
+	}
+
+header {
+    	background-color: #0074d9;
+    	color: white;
+   	text-align:center;
+   	padding: 20px;
+	}
+
+.div1{
+	width: 70%; 
+	height: 200px; 
+	float: left;
+	}
+
+.div2{
+	margin-left: 70%; 
+	height: 200px; 
+	text-align:right;
+	}
+
+h1 {
+    	margin: 0;
+    	font-family: Times new Roman, sans-serif;
+   	font-size: 60px;
+	}
+
+.sub-title{
+	   margin: 0;
+           font-family: Times new Roman;
+           font-size: 25px;
+	   }
+
+
+
+.student-info, .marks, .result, .note{
+    	margin: 20px;
+    	padding: 20px;
+    	border: 2px solid #ccc;
+    	border-radius: 5px;
+	}
+.pasportphoto{
+ 	width: 170px;
+	height:200px;
+	border:2px solid #000; 
+	}
+
+.main-div{
+	width: 100%;
+	}
+
+
+
+h2{
+	font-family: Times new Roman;
+	}
+
+table {
+    	width: 100%;
+    	border-collapse: collapse;
+	}
+
+table, th, td {
+    	border: 2px solid #ccc;
+	}
+
+th, td {
+	padding: 8px;
+        text-align: center;
+        height: 15px;
+        }
+
+th {
+	background-color: #f2f2f2;
+    	color:#0074d9;
+	}
+
+.total{
+       
+	font-weight: bold;
+      	}
+       
+
+h2 {
+    	margin-top: 0;
+	}
+
+strong {
+    	font-weight: bold;
+    	color:#0074d9;  
+	}
+
+b{
+	font-weight: bold;
+	color: #000;   
+	}
+
+
+.c{
+	text-align: left;
+	}
+
+.sign{
+	width:200px;
+	height:150px;
+	text-align:right;
+	}
+.qr{
+	height:70px;
+	width:70px;
+	}
+.div3{
+	width: 25%; 
+	height: 100px; 
+	float: left;
+	}
+
+.div4{
+	float:left;
+	width: 50%; 
+	height: 100px; 
+	text-align:left;
+	}
+
+.div5{
+	
+        width: 25%; 
+	height: 100px; 
+	text-align:right;
+	float: right;
+	}
